@@ -26,7 +26,7 @@ app.use((req, res, next) => {
     req.io = io
 
     next()
-})
+}) 
 
 app.use(cors()) //para ser acessível por qualquer aplicação
 
