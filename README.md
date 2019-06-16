@@ -4,7 +4,7 @@
 
 ## Dependências
 
-- `Express` Criar servidor e lida com as rotas em nodes
+- `Express` Criar servidor e lida com as rotas em node
 - `Mongoose` Conectar e manipular banco de dados mongoDB
 - `Nodemon` Para não ter que das start no servidor (modo desenvolvedor) `yarn dev -D nodemon`
 - `Multer` Utilizar multipart formdata, formulários, envio de arquivos
